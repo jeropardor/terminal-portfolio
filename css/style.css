@@ -5,7 +5,7 @@
     --main-text-color-dk: #0f3531;
     --hl-color-1: #04D960;
     --hl-color-2: #F2E307;
-    --bk-color-2: #776f00;
+    --bk-color-2: #90870f;
     --hl-color-3: #F21B07;
 }
 
@@ -93,6 +93,10 @@ body {
     background-color: transparent;
     color: var(--hl-color-1);
     width: max-content;
+}
+
+.hl1 {
+    text-shadow: 0 0 3px #2af5e0;
 }
 
 
